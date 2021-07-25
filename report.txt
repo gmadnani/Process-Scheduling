@@ -1,0 +1,3 @@
+The disadvantage of the Pre-emptive SJF algorithm is it delays the longer processes in favour of the shortest processes. 
+In my algorithm, I used the waiting time instead of the remaining time. With this method, the processes arrived earlier 
+will be finished first to reduce the over-all makespan.
